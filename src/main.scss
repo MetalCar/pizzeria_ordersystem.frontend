@@ -1,0 +1,10 @@
+$bg-light: #dddddd;
+$bg-dark: #1a202c;
+
+body {
+  background-color: $bg-light;
+}
+
+html.dark body {
+  background-color: $bg-dark;
+}
